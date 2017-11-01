@@ -1,2 +1,2 @@
-# COSC331_Project2_bavillagran0_hoduqueorique0
+# COSC331 Project 2 by Brandon Villagran and Hugo Duque
 Our COSC 331 Project 2 Repository
